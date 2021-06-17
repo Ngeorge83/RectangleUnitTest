@@ -1,0 +1,2 @@
+C:\Users\HGST500\Desktop\RectangleTest\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\HGST500\Desktop\RectangleTest\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
